@@ -1,0 +1,5 @@
+numpy #Used for math, arrays, vector operations, and preparing data for the neural network.
+torch #Deep learning library used to build and train neural networks.
+gymnasium      # Provides a standard interface for RL environments. highway-env version
+highway-env    # Provides realistic driving environments for RL,highway environment
+matplotlib     #Plotting graphs and visualizations.(not used rn)
